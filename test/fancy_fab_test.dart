@@ -1,4 +1,4 @@
-import 'package:fancy_fab/fancy_fab_widget.dart';
+import 'package:fancy_fab_widget/fancy_fab_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

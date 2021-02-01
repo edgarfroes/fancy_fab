@@ -1,8 +1,7 @@
-name: fancy_fab
+name: fancy_fab_widget
 description: An animated Floating Action Button toggle with animation.
 version: 0.0.1
-author: Edgar Froes
-homepage:
+repository: https://github.com/edgarfroes/fancy_fab
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
